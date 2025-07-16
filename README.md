@@ -10,7 +10,8 @@
 ---
 
 ## ✨ About Me
-I'm a Computer Science student at IIIT Gwalior, passionate about full-stack web development and DevOps. I enjoy building innovative solutions that blend state-of-the-art AI technologies with reliable and scalable web/mobile applications. I'm also deeply interested in Data Structures and Algorithms and love solving complex programming challenges that test my problem-solving skills.
+I'm a Computer Science student at IIIT Gwalior, passionate about full-stack web/app development and DevOps. I enjoy building innovative solutions that blend state-of-the-art AI technologies with reliable and scalable web/mobile applications. I'm also deeply interested in Data Structures and Algorithms and love solving complex programming challenges that test my problem-solving skills.
+
 ---
 
 ## 🧰 Tech Toolbox
