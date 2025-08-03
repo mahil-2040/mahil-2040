@@ -65,7 +65,6 @@ I'm a Computer Science student at IIIT Gwalior, passionate about full-stack web/
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahil-2040&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<!--
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -73,5 +72,5 @@ I'm a Computer Science student at IIIT Gwalior, passionate about full-stack web/
   <img src="https://raw.githubusercontent.com/mahil-2040/mahil-2040/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
--->
+
 ###
